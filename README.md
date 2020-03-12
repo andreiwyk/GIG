@@ -4,7 +4,8 @@
 
 - install node
 - npm install cypress --save-dev
-- git clone this repo
+- git clone this repo in the folder where cypress was installed
+- run cmd: .\node_modules\.bin\cypress open
 
 ## Info
 Task #1
